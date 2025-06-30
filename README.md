@@ -7,11 +7,11 @@ This project is designed for learning backend development, REST principles, and 
 
 ## 🚀 Features
 
-- Create a journal entry ✅
-- Get all journal entries ✅
-- Get journal entry by ID ✅
-- Update journal entry by ID ✅
-- Delete journal entry by ID ✅
+- Create a journal entry
+- Get all journal entries
+- Get journal entry by ID
+- Update journal entry by ID
+- Delete journal entry by ID
 - JSON request/response handling
 - Tested using Postman
 
